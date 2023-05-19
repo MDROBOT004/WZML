@@ -59,7 +59,7 @@ class _BotCommands:
         self.QbLeechCommand = getCommand('QBLEECH_COMMAND', f'qbleech{CMD_INDEX}')
         self.QbUnzipLeechCommand = getCommand('QBZIPLEECH_COMMAND', f'qbunzipleech{CMD_INDEX}')
         self.QbZipLeechCommand = getCommand('QBUNZIPLEECH_COMMAND', f'qbzipleech{CMD_INDEX}')
-        self.LeechWatchCommand = getCommand('LEECHWATCH_COMMAND',  f'leechwatch{CMD_INDEX}')
+        self.LeechWatchCommand = getCommand('LEECHWATCH_COMMAND',  f'yl{CMD_INDEX}')
         self.MediaInfoCommand = getCommand('MEDIAINFO_COMMAND', f'mediainfo{CMD_INDEX}')
         self.HashCommand = getCommand('HASH_COMMAND', f'hash{CMD_INDEX}')
         self.LeechZipWatchCommand = getCommand('LEECHZIPWATCH_COMMAND', f'leechzipwatch{CMD_INDEX}')
